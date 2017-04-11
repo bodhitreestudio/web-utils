@@ -4,7 +4,7 @@ import { checkPlatform, isInWechat } from "./vendor"
 /**
  * Open native app:
  */
-export function openApp(configs) {
+function openApp(configs) {
   const { appUri, appDownloadUri, appTencentStoreUri, appItunesStoreUri, appMsStoreUri, appPlayStoreUri } = configs
   let platform = checkPlatform()
   let inWeChat = isInWechat()
