@@ -1,5 +1,5 @@
 {
-  "name": "web-utils",
+  "name": "@bodhiveggie/web-utils",
   "version": "1.0.0",
   "description": "Common web utilities 🌞",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ChrisOHu/WebUtils.git"
+    "url": "git+ssh://git@github.com/bodhiveggie/web-utils.git"
   },
   "keywords": [
     "web",
@@ -17,7 +17,7 @@
   "author": "Huaishun Hu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ChrisOHu/WebUtils/issues"
+    "url": "https://github.com/bodhiveggie/web-utils/issues"
   },
-  "homepage": "https://github.com/ChrisOHu/WebUtils#readme"
+  "homepage": "https://github.com/bodhiveggie/web-utils#readme"
 }
