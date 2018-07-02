@@ -26,7 +26,7 @@ import {
   isInWechat
 } from '@bodhiveggie/web-utils';
 
-// Brose the source to see usage. It was well written.
+// Browse the source to see usage. It was well written.
 
 ```
 

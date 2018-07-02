@@ -1,6 +1,6 @@
 {
   "name": "@bodhiveggie/web-utils",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Common web utilities 🌞",
   "main": "index.js",
   "scripts": {
